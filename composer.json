@@ -1,0 +1,23 @@
+{
+  "name": "royfj/yunxun-php-server",
+  "description": "Netease VOD PHP server API",
+  "type": "library",
+  "version": "1.0.0",
+  "minimum-stability": "stable",
+  "homepage": "https://netease.im/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Netease",
+      "email": "im@service.netease.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3"
+  },
+  "autoload": {
+    "files": [
+      "ServerAPI.php"
+    ]
+  }
+}
